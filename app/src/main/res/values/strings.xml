@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConfigurationReader</string>
+    <string name="label_lang">Language code: %s</string>
+</resources>
